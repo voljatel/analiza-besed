@@ -6,3 +6,4 @@ V okviru tega projekta se bomo ukvarjali z analizo besed.
 
 nekaj avtorjev
 woewoewoewo
+* Leon Perko
